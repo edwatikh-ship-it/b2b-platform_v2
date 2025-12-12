@@ -1,0 +1,248 @@
+{
+  "timestamp": "2025-12-12T17:52:06.333311",
+  "source_file": "Снимок экрана 2025-12-12 174840.png",
+  "confidence": 95,
+  "parsing_source": "gpt-4o",
+  "items": [
+    {
+      "pos": 1,
+      "type": "Profile Pipe",
+      "product_number": "40x20x2",
+      "brand": "ГОСТ 8645 рд,6.0",
+      "specs": "",
+      "weight": "0.082 т",
+      "qty": 5.8261,
+      "unit": "t",
+      "notes": ""
+    },
+    {
+      "pos": 2,
+      "type": "Strip",
+      "product_number": "40x4",
+      "brand": "Ст3сп/пс (г/к)",
+      "specs": "ГОСТ 103 рд,6.0",
+      "weight": "0.076 т",
+      "qty": 4.8792,
+      "unit": "t",
+      "notes": ""
+    },
+    {
+      "pos": 3,
+      "type": "Channel",
+      "product_number": "10У",
+      "brand": "Ст3сп/пс",
+      "specs": "ГОСТ 8240 рд.12,0",
+      "weight": "0.215 т",
+      "qty": 14.7257,
+      "unit": "t",
+      "notes": ""
+    },
+    {
+      "pos": 4,
+      "type": "Channel",
+      "product_number": "14У",
+      "brand": "Ст3сп/пс",
+      "specs": "ГОСТ 8240 рд.12,0",
+      "weight": "0.308 т",
+      "qty": 22.176,
+      "unit": "t",
+      "notes": ""
+    },
+    {
+      "pos": 5,
+      "type": "Channel",
+      "product_number": "8П",
+      "brand": "С255-12",
+      "specs": "ГОСТ 8240 рд.12,0",
+      "weight": "0.352 т",
+      "qty": 23.76,
+      "unit": "t",
+      "notes": ""
+    },
+    {
+      "pos": 6,
+      "type": "Channel",
+      "product_number": "10П",
+      "brand": "Ст3сп",
+      "specs": "ГОСТ 8240 рд.12,0",
+      "weight": "0.751 т",
+      "qty": 50.317,
+      "unit": "t",
+      "notes": ""
+    },
+    {
+      "pos": 7,
+      "type": "Channel",
+      "product_number": "12П",
+      "brand": "Ст3сп/пс",
+      "specs": "ГОСТ 8240 рд.12,0",
+      "weight": "0.649 т",
+      "qty": 45.624,
+      "unit": "t",
+      "notes": ""
+    },
+    {
+      "pos": 8,
+      "type": "Channel",
+      "product_number": "14П",
+      "brand": "Ст3сп/пс",
+      "specs": "ГОСТ 8240 рд.12,0",
+      "weight": "0.751 т",
+      "qty": 52.755,
+      "unit": "t",
+      "notes": ""
+    },
+    {
+      "pos": 9,
+      "type": "Channel",
+      "product_number": "16П",
+      "brand": "Ст3сп/пс",
+      "specs": "ГОСТ 8240 рд.12,0",
+      "weight": "0.887 т",
+      "qty": 62.09,
+      "unit": "t",
+      "notes": ""
+    },
+    {
+      "pos": 10,
+      "type": "Channel",
+      "product_number": "18П",
+      "brand": "Ст3сп/пс",
+      "specs": "ГОСТ 8240 рд.12,0",
+      "weight": "0.451 т",
+      "qty": 53.808,
+      "unit": "t",
+      "notes": ""
+    },
+    {
+      "pos": 11,
+      "type": "Channel",
+      "product_number": "24П",
+      "brand": "Ст3сп/пс",
+      "specs": "ГОСТ 8240 рд.12,0",
+      "weight": "0.294 т",
+      "qty": 35.077,
+      "unit": "t",
+      "notes": ""
+    },
+    {
+      "pos": 12,
+      "type": "Angle",
+      "product_number": "25x25x3",
+      "brand": "Ст3сп/пс",
+      "specs": "ГОСТ 8509 рд.6,18",
+      "weight": "0.024 т",
+      "qty": 1.008,
+      "unit": "t",
+      "notes": ""
+    },
+    {
+      "pos": 13,
+      "type": "Angle",
+      "product_number": "25x25x4",
+      "brand": "Ст3сп/пс",
+      "specs": "ГОСТ 8509 рд.6,18",
+      "weight": "0.054 т",
+      "qty": 3.888,
+      "unit": "t",
+      "notes": ""
+    },
+    {
+      "pos": 14,
+      "type": "Angle",
+      "product_number": "32x32x4",
+      "brand": "Ст3сп/пс",
+      "specs": "ГОСТ 8509 рд.6,18",
+      "weight": "0.316 т",
+      "qty": 22.752,
+      "unit": "t",
+      "notes": ""
+    },
+    {
+      "pos": 15,
+      "type": "Angle",
+      "product_number": "40x40x4",
+      "brand": "Ст3сп/пс",
+      "specs": "ГОСТ 8509 рд.12,0",
+      "weight": "0.623 т",
+      "qty": 37.38,
+      "unit": "t",
+      "notes": ""
+    },
+    {
+      "pos": 16,
+      "type": "Angle",
+      "product_number": "50x50x5",
+      "brand": "Ст3сп/пс",
+      "specs": "ГОСТ 8509 рд.6,0",
+      "weight": "0.216 т",
+      "qty": 5.6872,
+      "unit": "t",
+      "notes": ""
+    },
+    {
+      "pos": 17,
+      "type": "Angle",
+      "product_number": "50x50x5",
+      "brand": "Ст3сп/пс",
+      "specs": "ГОСТ 8509 рд.12,0",
+      "weight": "1.616 т",
+      "qty": 96.152,
+      "unit": "t",
+      "notes": ""
+    },
+    {
+      "pos": 18,
+      "type": "Bar",
+      "product_number": "Ф 8",
+      "brand": "А500С",
+      "specs": "ГОСТ 414-10-599 рд.11,7",
+      "weight": "0.280 т",
+      "qty": 2.373,
+      "unit": "t",
+      "notes": ""
+    },
+    {
+      "pos": 19,
+      "type": "Bar",
+      "product_number": "Ф 10",
+      "brand": "А500С",
+      "specs": "ГОСТ 34028 рд.11,7",
+      "weight": "0.247 т",
+      "qty": 5.865,
+      "unit": "t",
+      "notes": ""
+    },
+    {
+      "pos": 20,
+      "type": "Bar",
+      "product_number": "Ф 12",
+      "brand": "А500С",
+      "specs": "ГОСТ 34028 рд.11,7",
+      "weight": "0.312 т",
+      "qty": 5.772,
+      "unit": "t",
+      "notes": ""
+    },
+    {
+      "pos": 21,
+      "type": "Bar",
+      "product_number": "Ф 16",
+      "brand": "А500С",
+      "specs": "ГОСТ 34028 рд.11,7",
+      "weight": "0.351 т",
+      "qty": 19.305,
+      "unit": "t",
+      "notes": ""
+    }
+  ],
+  "tokens": {
+    "input": 1046,
+    "output": 1867,
+    "total": 2913
+  },
+  "cost": {
+    "usd": 0.033235,
+    "rub": 3.3235
+  }
+}
