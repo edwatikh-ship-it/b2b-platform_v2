@@ -1,0 +1,17 @@
+# FastAPI
+API_HOST=127.0.0.1
+API_PORT=8000
+
+# Database
+DATABASE_URL=sqlite:///./b2b_platform.db
+
+# Celery (опционально)
+CELERY_BROKER_URL=redis://localhost:6379/0
+CELERY_RESULT_BACKEND=redis://localhost:6379/1
+
+# Parser
+PARSER_TYPE=playwright
+PARSER_PAGES=2
+
+# Logging
+LOG_LEVEL=INFO
